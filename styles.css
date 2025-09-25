@@ -17,3 +17,17 @@ footer {
         text-align: center;
         border-top: 1px solid #ccc;
 }
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #555;
+}
+nav li a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: block;
+}
